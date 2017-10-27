@@ -1,6 +1,6 @@
 require "language/go"
 
-class Serulian < Formula
+class SerulianHead < Formula
   desc "Serulian compiler and toolkit"
   homepage "https://serulian.io"
   head "https://github.com/serulian/compiler.git"
