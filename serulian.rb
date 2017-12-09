@@ -2,8 +2,8 @@ class Serulian < Formula
   desc "Serulian toolkit"
   homepage "https://serulian.io"
   head "https://github.com/serulian/compiler.git"
-  url "https://github.com/serulian/compiler/releases/download/v0.1.0/serulian-darwin-amd64", :using => :nounzip
-  version "v0.1.0"
+  url "https://github.com/serulian/compiler/releases/download/v0.2.0/serulian-darwin-amd64", :using => :nounzip
+  version "v0.2.0"
 
   bottle :unneeded
   
